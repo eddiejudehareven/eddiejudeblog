@@ -1,0 +1,22 @@
+/* Standard Nav Menu */
+.site-nav a {
+	color: white;
+}
+.site-nav ul {
+	position: absolute;
+	top: 5%;
+	left: 0%;
+	margin: 0;
+	padding: 0;
+	height: 30px;
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+
+.site-nav li { 
+	float: left;
+	display: block;
+	text-align: left;
+	padding-right: 20px;
+}

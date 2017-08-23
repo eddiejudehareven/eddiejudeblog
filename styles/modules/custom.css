@@ -1,0 +1,16 @@
+a {
+	text-decoration: none;
+	color: orange;
+}
+
+a:visited {
+	color: pink;
+}
+
+h5 {
+	color: red; 
+}
+
+p {
+	color: black;
+}
