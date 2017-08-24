@@ -1,6 +1,10 @@
 /* Standard Nav Menu */
 .site-nav a {
 	color: white;
+
+		&:hover {
+		color: #eeab26;
+}
 }
 .site-nav ul {
 	position: absolute;
@@ -15,8 +19,10 @@
 }
 
 .site-nav li { 
-	float: left;
+	float: right;
 	display: block;
 	text-align: left;
 	padding-right: 20px;
+	position: relative;
+	top: 25%;
 }

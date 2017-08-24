@@ -1,0 +1,26 @@
+.site-header {
+	background-color: white;
+	height: 100px;
+	top: 15vw;
+	left: 0;
+	width: 100%;
+	border-bottom: 10px solid #945779;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	padding: 30px 0 0 0;
+}
+
+.site-header h1 a {
+	font-weight: 300;
+	font-size: 4rem;
+	opacity: .8;
+	color: #242424;
+}
+
+.site-header h5 {
+	color: #242424;
+	font-weight: 300;
+	font-size: 1.8rem;
+	opacity: .8;
+}
+

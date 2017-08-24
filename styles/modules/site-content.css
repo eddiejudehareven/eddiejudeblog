@@ -1,0 +1,34 @@
+/* Main Column */
+.main-column {
+	width: 66%;
+	float: left;
+}
+
+/* Side Column */
+.side-column {
+	width: 25%;
+	height: 100%;
+	float: right;
+	position: absolute;
+	top: 35%; 
+	right: 2%;
+	background-color: #945779;
+	opacity: .8;
+	padding: 10px 1.8125rem 1px 1.8125rem;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+.side-column li {
+	color: #242424;
+}
+
+.site-content h2 {
+	font-size: 20px;
+	padding: 10px 0 10px 0;
+}
+
+.site-content h5 {
+	padding: 0 0 10px 0;
+	font-size: 13px;
+}
